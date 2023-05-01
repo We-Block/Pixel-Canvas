@@ -1,0 +1,2 @@
+# Pixel-Canvas
+ PixelCanvas is a decentralized, permissionless, and interactive blockchain-based canvas where users can collaborate to create unique and evolving digital art pieces. By interacting with the canvas smart contract, users can change pixel colors, and as the epochs progress, the canvas evolves into an NFT that can be minted by the last contributor. Participants can join in the creative process without any permission, while incurring a nominal fee for each interaction, fostering a vibrant and dynamic digital art community.
